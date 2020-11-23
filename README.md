@@ -1,4 +1,4 @@
-### Hi👋 I am Ankit Jailwal![](https://komarev.com/ghpvc/?username=Ankit-jailwal&style=plastic)
+### Hi👋 I am Ankit Jailwal  ![](https://komarev.com/ghpvc/?username=Ankit-jailwal&style=plastic)
 
 
 - 🔭 I’m currently working on AI crop recommandation app.
