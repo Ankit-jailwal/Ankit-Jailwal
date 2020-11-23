@@ -1,4 +1,7 @@
 ### Hi👋 I am Ankit Jailwal
+
+![](https://komarev.com/ghpvc/?username=Ankit-jailwal&style=plastic)<br />
+
 - 🔭 I’m currently working on AI crop recommandation app.
 - 🌱 I’m currently learning Machine learning.
 - 👯 I’m looking to collaborate on Django/Flutter.
