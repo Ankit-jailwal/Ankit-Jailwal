@@ -7,8 +7,7 @@ applications from different industries. I have an academic background in B.tech 
 technical skills in app development, embedded systems, web development, 3D designing, and video editing. I am currently leading IEEE Student Branch DIT University as Technical Head(2020-present) and Microsoft Learn Student
 Ambassador 2021. 
 
-
-I’m looking to collaborate on **Open-Source Projects**<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">
+<h4>I’m looking to collaborate on **Open-Source Projects**<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
