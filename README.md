@@ -1,12 +1,13 @@
 ### Hi there 👋 My name is Ankit Jailwal!
-<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-I'm a Full-Stack Software Developer and an ✨Machine Learning enthusiast✨ with 
+I am a tech enthusiast who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or
+applications from different industries. I have an academic background in B.tech in Computer science and engineering and strong
+technical skills in app development, embedded systems, web development, 3D designing, and video editing. I am currently leading IEEE Student Branch DIT University as Technical Head(2020-present) and Microsoft Learn Student
+Ambassador 2021. 
 
-self motivation and natural passion for continous learning and development.
-
-<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
+I’m looking to collaborate on **Open-Source Projects**<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
@@ -20,15 +21,16 @@ self motivation and natural passion for continous learning and development.
 <!--  TOP Technologies That I use Daily  -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My top technologies</h3>
  
-[![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) [![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
+[![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=61DAFB)](#)  
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=61DAFB)](#) 
+[![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) 
+[![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
 [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=61DAFB)](#)
 [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
-[![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
 [![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
